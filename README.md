@@ -22,3 +22,7 @@ WASD - movement
 Space - rotate "sword"
 R - restart the Dungeon
 Escape - Exit
+
+## Stack Casual Game
+Casual game - stack block as high as possible!
+Touch to release the block
