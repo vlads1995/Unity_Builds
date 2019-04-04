@@ -43,10 +43,7 @@ https://github.com/vlads1995/Space-Shooter
 
 ## Sci-Fi Demo (Windows)
 3D Shooter demo with demonstrate some mechanics, such as: raycast, navmesh, destructible objects and other.
-WASD for movement
-E - interact ( you can pickup the coin, buy gun)
-R - reload
-Mouse0(left MB) - shoot
+WASD for movement, E - interact ( you can pickup the coin, buy gun), R - reload, Mouse0(left MB) - shoot.
 Note: box near you is destructible
 
 https://github.com/vlads1995/Sci-Fi-Demo
