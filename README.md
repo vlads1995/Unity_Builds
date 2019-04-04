@@ -49,6 +49,6 @@ Note: box near you is destructible
 
 https://github.com/vlads1995/Sci-Fi-Demo
 
-![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Sci-Fi_Demo_2019-04-04_13-42-47.jpg)
-![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Sci-Fi_Demo_2019-04-04_13-42-57.jpg)
-![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Sci-Fi_Demo_2019-04-04_13-43-17.png)
+![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Sci-Fi_Demo_2019-04-04_14-36-51.png)
+![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Sci-Fi_Demo_2019-04-04_14-37-06.jpg)
+![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Sci-Fi_Demo_2019-04-04_14-37-17.png)
