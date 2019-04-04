@@ -23,7 +23,7 @@ https://github.com/vlads1995/Stack-Casual-Game
 ![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Bluestacks_2019-04-04_13-38-40.png)
 ![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Bluestacks_2019-04-04_13-38-55.png)
 
-## Space_Shooter for win (Windows, Android)
+## Space_Shooter (Windows, Android)
 2D Space Shooter. Try to avoid collision with enemies and destroy them by your weapon. You can also pickup powerups.
 WASD for movement,
 Space- Fire,
