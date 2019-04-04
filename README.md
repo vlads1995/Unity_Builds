@@ -41,7 +41,7 @@ https://github.com/vlads1995/Space-Shooter
 ![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Bluestacks_2019-04-04_14-03-19.png)
 ![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Bluestacks_2019-04-04_14-03-40.png)
 
-## Sci-Fi Demo for win (Windows)
+## Sci-Fi Demo (Windows)
 3D Shooter demo with demonstrate some mechanics, such as: raycast, navmesh, destructible objects and other.
 WASD for movement
 E - interact ( you can pickup the coin, buy gun)
