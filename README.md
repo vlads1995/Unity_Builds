@@ -1,6 +1,6 @@
 # Unity_Builds
 
-## 2D Cannon_Game
+## 2D Cannon_Game (Android)
 
 2D shooter with a choice of two types of guns with various parameters: rotation speed, projectile strength and size, and damage inflicted. The game has 2 types of enemies: static and mobile. Movable enemies shoot at the player. If a player’s life drops to 0, the game will end. For each enemy your killed, score increases by 1. To start the game, select a weapon by clicking on the ChooseCannon button. The gun is controlled on the right side of the screen. To charge the gun you need to click on the left side of the screen, for a shot - release it.
 
@@ -13,7 +13,7 @@ https://github.com/vlads1995/2D_Cannon_Game
 ![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Bluestacks_2019-04-04_14-08-33.png)
 ![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Bluestacks_2019-04-04_14-08-45.png)
 
-## Stack Casual Game
+## Stack Casual Game (Android)
 Casual game - stack block as high as possible!
 Touch to release the block
 
@@ -23,7 +23,7 @@ https://github.com/vlads1995/Stack-Casual-Game
 ![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Bluestacks_2019-04-04_13-38-40.png)
 ![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Bluestacks_2019-04-04_13-38-55.png)
 
-## Space_Shooter for win
+## Space_Shooter for win (Windows, Android)
 WASD for movement
 Space- Fire
 P - Pause
@@ -40,7 +40,7 @@ https://github.com/vlads1995/Space-Shooter
 ![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Bluestacks_2019-04-04_14-03-19.png)
 ![Image alt](https://github.com/vlads1995/Unity_Builds/raw/master/Image/Bluestacks_2019-04-04_14-03-40.png)
 
-## Sci-Fi Demo for win
+## Sci-Fi Demo for win (Windows)
 WASD for movement
 E - interact ( you can pickup the coin, buy gun)
 R - reload
