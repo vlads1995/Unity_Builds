@@ -1,6 +1,6 @@
 # Unity_Games
  
-You can find all of this game builds in this repository or in game repositories release. The script files also placed in the games repositories.
+You can download all of this game builds in current release or in the game repositories release. The script files placed in the games repositories.
 
 ## 2D Cannon_Game (Android)
 
